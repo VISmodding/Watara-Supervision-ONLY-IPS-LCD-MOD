@@ -37,7 +37,7 @@ Watch the YouTube video below to better understand each step.
 
 ## YouTube video for the setup
 
-[Link_here](https://youtu.be/X)
+[Link_here](https://youtu.be/CA8IZA4ixjw)
 
 ## Bill of Materials (BOM)
 
