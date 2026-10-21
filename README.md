@@ -58,7 +58,7 @@ If you plan to use the mod on the unhinged version, you also need to produce the
 
 The main IPS board (the one with the RP2040) is **not** included as Gerber files in this repository: it is available only as a shared project on PCBWay, where you can order it bare or pre-assembled:
 
-<a href="https://www.pcbway.com/project/shareproject/X.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+<a href="https://www.pcbway.com/project/shareproject/Watara_Supervision_ONLY_IPS_LCD_UPGRADE_8b90f832.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ## Minimal Instructions to Program the Pico
 
